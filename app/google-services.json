@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "614313323239",
+    "project_id": "heart-ayu17",
+    "storage_bucket": "heart-ayu17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614313323239:android:cd0b987348a914c9ee5042",
+        "android_client_info": {
+          "package_name": "com.example.etiquette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614313323239-mjde308kbpleps6997v3pu4uu44jnsel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSl_9BUf-R0VSfYgsvXEUUiSDscNc-w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614313323239-mjde308kbpleps6997v3pu4uu44jnsel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614313323239:android:7308f161dca92333ee5042",
+        "android_client_info": {
+          "package_name": "com.example.heart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614313323239-mjde308kbpleps6997v3pu4uu44jnsel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSl_9BUf-R0VSfYgsvXEUUiSDscNc-w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614313323239-mjde308kbpleps6997v3pu4uu44jnsel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
